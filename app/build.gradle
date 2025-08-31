@@ -16,7 +16,7 @@ plugins {
     id 'java'
 }
 
-group 'com.restful-booker.herokuapp'   // Group identifier for artifacts
+group 'com.restfulbooker.herokuapp'   // Group identifier for artifacts
 version '1.0-SNAPSHOT'        // Project version
 
 java {
@@ -87,7 +87,7 @@ test {
 
 serenity {
     // Root package where Serenity runner classes are located for test discovery
-    testRoot = "com.restful-booker.herokuapp"
+    testRoot = "com.restfulbooker.herokuapp"
 
     // Base folder containing Cucumber feature files (BDD)
     requirementsBaseDir = ["src/test/resources/features/"]

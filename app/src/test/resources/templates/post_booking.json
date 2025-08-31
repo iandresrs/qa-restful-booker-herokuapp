@@ -1,0 +1,8 @@
+{
+    "firstname": "${firstname}",
+    "lastname": "${lastname}",
+    "totalprice": "${totalprice}",
+    "depositpaid": "${depositpaid}",
+    "bookingdates": "${bookingdates}",
+    "additionalneeds": "${additionalneeds}"
+}
